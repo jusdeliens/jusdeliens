@@ -4,7 +4,9 @@ Also called `Jusdeliens` (aka `j2l`, meaning `link juice` in french), as the nam
 
 Passionate about electrical and computing engineering applied to medical and educational fields, to enhance and link people and knowledge for all equally 
 
-- 🔭 I'm currently working on 🤖 [Ova](https://jusdeliens.com/ova), a pocket bot mate for learning by doing AI robotic and software development 
+- 🔭 I'm currently working on
+    - 🤖 [Ova](https://jusdeliens.com/ova), a pocket bot mate for learning by doing AI robotic and software development
+    - 🩺  [Aqsaniit](https://www.aurora-sterilisation.com), the next generation of medical devices sterilizer
 - 👯 I’m looking to collaborate on any project where my skills and values can benefit, specially in medical or educational fields
 - 💖 Philosophy : **Ubuntu** meaning `We are what we are because of who we all are` 
 
